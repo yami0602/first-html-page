@@ -1,0 +1,35 @@
+h1 {
+    color: blue;
+    text-align: center;
+}
+div {
+    text-align: center;
+}
+
+p {
+    text-align:center;
+}
+
+ul {
+    text-align:right;
+    list-style-position:inside;
+}
+
+ol {
+    text-align:right;
+    list-style-position: inside;
+}
+
+li {
+    font-size: 30px;
+}
+h1 {
+        color: green
+    
+}
+.taco {
+        color: red;
+}
+.tacos {
+    text-transform: uppercase;
+}
