@@ -11,13 +11,13 @@ p {
 }
 
 ul {
-    text-align:right;
+    text-align:left;
     list-style-position:inside;
 }
 
 ol {
-    text-align:right;
-    list-style-position: inside;
+    text-align:left;
+    list-style-position: outside;
 }
 
 li {
