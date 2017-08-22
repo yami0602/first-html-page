@@ -22,6 +22,7 @@ ol {
 
 li {
     font-size: 30px;
+
 }
 h1 {
         color: green
@@ -32,4 +33,30 @@ h1 {
 }
 .tacos {
     text-transform: uppercase;
+}
+ul {        
+    line-height: 2.0em;
+}
+
+
+input, textarea {
+    display: block;
+    margin-bottom: 20px;
+    padding: 8px;
+}
+
+input[name="dest_email"] {
+    display: none;
+}
+
+.left, .right {
+    width: 100%;
+    display: inline-block;
+    text-align: left;
+}
+
+@media (min-width:760px) {
+    .left, .right {
+        width: 48%;
+    }
 }
