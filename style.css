@@ -11,8 +11,7 @@ p {
 }
 
 ul {
-    text-align:left;
-    list-style-position:inside;
+   
 }
 
 ol {
@@ -36,6 +35,8 @@ h1 {
 }
 ul {        
     line-height: 2.0em;
+    text-align:left;
+    list-style-position:inside;
 }
 
 
